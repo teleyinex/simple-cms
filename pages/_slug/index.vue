@@ -69,3 +69,8 @@ export default {
   },
 }
 </script>
+<style>
+.nuxt-content img {
+  width: 100%;
+}
+</style>
