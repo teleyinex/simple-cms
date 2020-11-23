@@ -29,3 +29,7 @@ fields:
       path: 
   label: language
   description: Language of the article
+- name: published
+  type: boolean
+  label: Published
+  description: If the article is published or not.
