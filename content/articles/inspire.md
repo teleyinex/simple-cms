@@ -19,6 +19,8 @@ Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 
 Donec nec tincidunt erat, sed elementum purus. Donec condimentum mi odio, et efficitur mauris commodo non. Suspendisse et sagittis risus. Donec ut dignissim augue. Quisque ut turpis blandit neque ullamcorper feugiat et nec est. Proin mollis rutrum eleifend. Nunc congue in ipsum non interdum. Integer mollis semper elit, et auctor leo dapibus in. Nulla ac accumsan nisi. Pellentesque nec sollicitudin ipsum. Nunc dolor sapien, posuere sit amet mauris ut, accumsan pulvinar lorem. Donec commodo pharetra congue. Integer ut neque rhoncus, ultricies urna at, pharetra quam.
 
+![](/images/samsung-memory-wts034vmmcg-unsplash.jpg)
+
 ## Duis gravida
 
 Duis gravida non velit quis aliquam. Nullam eu malesuada arcu, vitae porttitor ante. Aenean facilisis, mauris quis dapibus iaculis, massa sapien tincidunt leo, quis tempor risus leo quis ante. Aliquam condimentum tortor ut aliquam suscipit. Integer et pharetra diam. Etiam porttitor blandit imperdiet. Vivamus luctus fringilla dui, vel ultrices velit laoreet eget. Duis et arcu velit. Cras mollis tempus libero sed laoreet.
