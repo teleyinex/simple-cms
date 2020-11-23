@@ -1,5 +1,5 @@
 ---
-title: Inspire
+title: Example for Maika and Rocío
 description: Example page
 language: en
 createdAt: 2020-11-23
@@ -24,3 +24,5 @@ Donec nec tincidunt erat, sed elementum purus. Donec condimentum mi odio, et eff
 ## Duis gravida
 
 Duis gravida non velit quis aliquam. Nullam eu malesuada arcu, vitae porttitor ante. Aenean facilisis, mauris quis dapibus iaculis, massa sapien tincidunt leo, quis tempor risus leo quis ante. Aliquam condimentum tortor ut aliquam suscipit. Integer et pharetra diam. Etiam porttitor blandit imperdiet. Vivamus luctus fringilla dui, vel ultrices velit laoreet eget. Duis et arcu velit. Cras mollis tempus libero sed laoreet.
+
+![](/images/beat-schuler-9d2wuvst9_i-unsplash.jpg)
